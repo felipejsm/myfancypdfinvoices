@@ -46,7 +46,7 @@
 							<configuration>
 								<transformers>
 									<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-										<mainClass>com.felipe.ApplicationLauncher</mainClass>
+										<mainClass>com.felipe.myfancypdfinvoices.ApplicationLauncher</mainClass>
 									</transformer>
 								</transformers>
 							</configuration>

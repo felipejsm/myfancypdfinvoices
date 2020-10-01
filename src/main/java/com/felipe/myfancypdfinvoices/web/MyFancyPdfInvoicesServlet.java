@@ -1,6 +1,8 @@
-package com.felipe;
+package com.felipe.myfancypdfinvoices.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.felipe.myfancypdfinvoices.model.Invoice;
+import com.felipe.myfancypdfinvoices.service.InvoiceService;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

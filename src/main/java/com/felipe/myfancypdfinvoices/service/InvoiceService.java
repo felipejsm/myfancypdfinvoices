@@ -1,4 +1,6 @@
-package com.felipe;
+package com.felipe.myfancypdfinvoices.service;
+
+import com.felipe.myfancypdfinvoices.model.Invoice;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
